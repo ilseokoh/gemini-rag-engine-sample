@@ -18,3 +18,7 @@ gemini-call-with-file.ipynb
 ## CSV 파일 분석 샘플 
 
 BigQuery Cost Optimization.ipynb
+
+## Vertex AI Evaluation 
+
+genesis-g80-rag-evaluation-256.ipynb
